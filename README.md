@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I enjoy building clean, test-driven applications a
 
 - 💻 Languages: `Python`, `JavaScript`, `TypeScript`, `C`
 - 🧰 Frameworks: `React`, `FastAPI`
-- 🗃️ Databases: `PostgreSQL`, `MongoDB`, `Redis`, `SQLite`
+- 🗃️ Databases: `PostgreSQL`, `MongoDB`, `DynamoDB`, `SQLite`
 - ⚙️ Tools: `Docker`, `Git`, `Postman`
-- ☁️ Cloud & DevOps: `GitHub Actions`, `Docker Hub`, `Render`, `Vercel`
+- ☁️ Cloud & DevOps: `GitHub Actions`, `AWS`
 
 ---
 
