@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I enjoy building clean, test-driven applications a
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: A FastAPI project with LLMs.
-- 🌱 I’m currently learning: RAG and NLP.
+- 🌱 I’m currently learning: Solana Blockchain.
 - 💬 Ask me about: FastAPI, Python, TDD workflows, REST APIs, and performance-minded backend architecture.
 - ⚡ Fun fact: When I'm not coding, you'll probably find me at the pool perfecting my butterfly stroke 🏊‍♂️.
 
